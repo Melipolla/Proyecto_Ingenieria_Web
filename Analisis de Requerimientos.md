@@ -5,4 +5,3 @@
 4. Calcular el ingreso, costo y ganancia de los traslados realizados.
 5. Generación de reportes operativos.
 6. Ordenar las flotas según filtros que identifican lo que convenga para el viaje correspondiente.
-7. Controlar el acceso solo de personas definidas por la empresa.
