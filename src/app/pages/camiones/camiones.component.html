@@ -1,0 +1,16 @@
+<h1>Camiones</h1>
+
+
+<ul>
+    <li *ngFor="let camion of Camiones">
+      {{ camion.nombre }} - {{ camion.conductor }} - {{ camion.patente }}
+    </li>
+  </ul>
+
+<form (ngSubmit)="crearCamion(nombre.value, conductor.value, patente.value, foto.value)">
+  <input type="text" placeholder="Nombre" #nombre required>
+  <input type="text" placeholder="Conductor" #conductor required>
+  <input type="text" placeholder="Patente" #patente required>
+  <input type="text" placeholder="Foto" #foto required>
+  <button type="submit">Crear Camión</button>
+</form>
