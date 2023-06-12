@@ -1,0 +1,33 @@
+[
+    {
+      "nombre": "Camión 1",
+      "conductor": "Conductor 1",
+      "patente": "ABC123",
+      "foto": "foto1.jpg"
+    },
+    {
+      "nombre": "Camión 2",
+      "conductor": "Conductor 2",
+      "patente": "DEF456",
+      "foto": "foto2.jpg"
+    },
+    {
+      "nombre": "Camión 3",
+      "conductor": "Conductor 3",
+      "patente": "GHI789",
+      "foto": "foto3.jpg"
+    },
+    {
+      "nombre": "Camión 4",
+      "conductor": "Conductor 4",
+      "patente": "JKL012",
+      "foto": "foto4.jpg"
+    },
+    {
+      "nombre": "Camión 5",
+      "conductor": "Conductor 5",
+      "patente": "MNO345",
+      "foto": "foto5.jpg"
+    }
+  ]
+  
