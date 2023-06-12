@@ -1,0 +1,38 @@
+
+
+.centrar{
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    font-family: 'Rosario', sans-serif;
+}
+
+nav .navbar-nav a{
+    color: black !important;
+    }
+
+.imagenGrande{
+    background-image: url();
+}
+
+.contenedor {
+    background-color: rgba(255, 196, 0, 0.452); /* color de fondo semi-transparente */
+    background-repeat: no-repeat; /* no repetir la imagen */
+    background-size: cover; /* ajustar el tamaño de la imagen al contenedor */
+    width: 1024px;
+    height: 575px;
+    
+  }
+.contenedor img{
+    opacity: 50%;
+}
+  
+.highlight{
+    background-color: orange;
+    color: white;
+    border: 2px solid orange;
+    font-family: 'Rosario', sans-serif;
+}
+.negrita{
+    font-weight: bolder;
+}
